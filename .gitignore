@@ -1,1 +1,4 @@
 _book
+*.out
+*.swp
+*.bak
