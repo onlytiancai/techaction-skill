@@ -2,3 +2,4 @@ _book
 *.out
 *.swp
 *.bak
+*.o
